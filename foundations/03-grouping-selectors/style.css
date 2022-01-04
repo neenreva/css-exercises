@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.leftbtn {
+    background-color: black;
+    color: white;
+}
+
+.rightbtn {
+    background-color: yellow;
+}
